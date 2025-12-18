@@ -1,4 +1,4 @@
-[200~Black-Box Optimization (BBO) Capstone Project
+[200~Black-Box Optimization (BBO) for Capstone Project
 
 Project Overview
 The goal of this capstone project is to explore and optimize black-box functions, where the underlying system is unknown or expensive to evaluate. In this challenge, we aim to intelligently select query points in high-dimensional input spaces to maximize performance signals while minimizing the number of function evaluations.
